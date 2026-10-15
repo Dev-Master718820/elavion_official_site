@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export function Brand({compact=false}:{compact?:boolean}) {return <Link href="/" className="brand" aria-label="ELAVION home"><svg width="46" height="46" viewBox="0 0 64 64" fill="none" aria-hidden="true"><path d="M9 34C12 19 36 19 57 7C51 25 27 27 9 34Z" fill="#a8d9ff"/><path d="M9 35C22 30 38 29 48 24C43 39 23 38 16 44C10 45 7 40 9 35Z" fill="#3988ef"/><path d="M16 44C24 43 30 46 37 54C18 55 9 48 9 40C10 43 12 45 16 44Z" fill="#75c6f4"/></svg>{!compact&&<span>ELAVION</span>}</Link>}

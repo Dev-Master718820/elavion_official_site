@@ -1,0 +1,22 @@
+[
+  {
+    "file": "inter.woff2",
+    "family": "Inter",
+    "subset": "latin",
+    "weight_range": "100 900",
+    "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+    "license": "SIL Open Font License 1.1",
+    "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt",
+    "license_file": "inter-OFL.txt"
+  },
+  {
+    "file": "manrope.woff2",
+    "family": "Manrope",
+    "subset": "latin",
+    "weight_range": "200 800",
+    "source": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+    "license": "SIL Open Font License 1.1",
+    "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+    "license_file": "manrope-OFL.txt"
+  }
+]

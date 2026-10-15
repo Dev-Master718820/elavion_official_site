@@ -1,0 +1,326 @@
+{
+  "checkedOn": "2026-10-14",
+  "method": "Web browser retrieval and official-domain indexed search results. Retrieved status is not an HTTP availability guarantee. Sparse/failed pages are identified explicitly. No prices, clinical outcome claims, or specifications were verified.",
+  "products": [
+    {
+      "slug": "chatgpt",
+      "attemptedUrl": "https://chatgpt.com",
+      "url": "https://chatgpt.com",
+      "status": "retrieved",
+      "evidenceUrl": "https://chatgpt.com",
+      "notes": "ChatGPT chat page identifies the service as AI and provides chat, files and creative features."
+    },
+    {
+      "slug": "claude",
+      "attemptedUrl": "https://claude.ai",
+      "url": "https://claude.ai",
+      "status": "retrieved",
+      "evidenceUrl": "https://claude.ai",
+      "notes": "Claude login/marketing page explicitly lists writing, analysis and coding."
+    },
+    {
+      "slug": "gemini",
+      "attemptedUrl": "https://gemini.google.com",
+      "url": "https://gemini.google.com",
+      "status": "limited_content",
+      "evidenceUrl": "https://gemini.google/us/about/?hl=en",
+      "notes": "Application page exposes sign-in only. Official Gemini overview search result supports AI assistant description."
+    },
+    {
+      "slug": "nvidia-dgx-systems",
+      "attemptedUrl": "https://www.nvidia.com/en-us/data-center/dgx-platform/",
+      "url": "https://www.nvidia.com/en-us/data-center/dgx-platform/",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.nvidia.com/en-us/data-center/dgx-platform/",
+      "notes": "DGX overview describes combined software and infrastructure for enterprise AI."
+    },
+    {
+      "slug": "nvidia-h100",
+      "attemptedUrl": "https://www.nvidia.com/en-us/data-center/h100/",
+      "url": "https://www.nvidia.com/en-us/data-center/h100/",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.nvidia.com/en-us/data-center/h100/",
+      "notes": "H100 page describes data-center GPUs, AI training and inference."
+    },
+    {
+      "slug": "azure-ai",
+      "attemptedUrl": "https://azure.microsoft.com/en-us/solutions/ai",
+      "url": "https://azure.microsoft.com/en-us/solutions/ai",
+      "status": "retrieved",
+      "evidenceUrl": "https://azure.microsoft.com/en-us/solutions/ai",
+      "notes": "Azure page describes AI tools, APIs and models for building applications."
+    },
+    {
+      "slug": "da-vinci-surgical-system",
+      "attemptedUrl": "https://www.intuitive.com/en-us/products-and-services/da-vinci",
+      "url": "https://www.intuitive.com/en-us/products-and-services/da-vinci",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.intuitive.com/en-us/products-and-services/da-vinci",
+      "notes": "Intuitive page identifies multiple da Vinci robotic surgical systems."
+    },
+    {
+      "slug": "magnetom-mri-systems",
+      "attemptedUrl": "https://www.siemens-healthineers.com/magnetic-resonance-imaging",
+      "url": "https://www.siemens-healthineers.com/magnetic-resonance-imaging",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.siemens-healthineers.com/magnetic-resonance-imaging",
+      "notes": "Siemens MRI portfolio lists multiple MAGNETOM clinical scanners."
+    },
+    {
+      "slug": "revolution-ct",
+      "attemptedUrl": "https://www.gehealthcare.com/products/computed-tomography",
+      "url": "https://www.gehealthcare.com/products/computed-tomography",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.gehealthcare.com/content/dam/gehc/sitecore-migrated-assets/gehc/us/images/products/computed-tomography/ct-system-upgrades/redesign-2025/rev-ct-rev-ct-es-apex-edition-upgrade-brochure-jb30517xx.pdf",
+      "notes": "General CT portfolio resolves. Official GE brochure confirms Revolution CT/CT ES; description corrected from family to a system."
+    },
+    {
+      "slug": "minimed-insulin-pump-systems",
+      "attemptedUrl": "https://www.medtronicdiabetes.com/products",
+      "url": "https://www.minimed.com/en-us/products/compare-insulin-pump-systems",
+      "status": "retrieved_redirect",
+      "evidenceUrl": "https://www.minimed.com/en-us/products/compare-insulin-pump-systems",
+      "notes": "Original /products request failed. Comparison page redirects to MiniMed and describes insulin pump systems; destination updated."
+    },
+    {
+      "slug": "lumify-ultrasound",
+      "attemptedUrl": "https://www.usa.philips.com/healthcare/sites/lumify",
+      "url": "https://www.usa.philips.com/healthcare/sites/lumify-handheld-ultrasound/",
+      "status": "retrieved_redirect",
+      "evidenceUrl": "https://www.usa.philips.com/healthcare/sites/lumify-handheld-ultrasound/",
+      "notes": "Philips page lists Lumify transducers and app; canonical redirected destination adopted."
+    },
+    {
+      "slug": "f-35-lightning-ii",
+      "attemptedUrl": "https://www.lockheedmartin.com/en-us/products/f-35.html",
+      "url": "https://www.lockheedmartin.com/en-us/products/f-35.html",
+      "status": "open_failed_search_supported",
+      "evidenceUrl": "https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/f35/documents/fg15-1280_001_f-35a_pc_final.pdf",
+      "notes": "Direct open failed. Official Lockheed search result resolves the same F-35 page; official aircraft brochure supports multirole description."
+    },
+    {
+      "slug": "b-21-raider",
+      "attemptedUrl": "https://www.northropgrumman.com/what-we-do/air/b-21-raider",
+      "url": "https://www.northropgrumman.com/what-we-do/aircraft/b-21-raider",
+      "status": "retrieved_redirect",
+      "evidenceUrl": "https://www.northropgrumman.com/what-we-do/aircraft/b-21-raider",
+      "notes": "Northrop B-21 page resolves at /aircraft/b-21-raider; canonical destination adopted."
+    },
+    {
+      "slug": "patriot-system",
+      "attemptedUrl": "https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/patriot",
+      "url": "https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/global-patriot-solutions",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/global-patriot-solutions",
+      "notes": "Original Patriot URL failed. Official Global Patriot page successfully retrieved; destination updated."
+    },
+    {
+      "slug": "palantir-gotham",
+      "attemptedUrl": "https://www.palantir.com/platforms/gotham/",
+      "url": "https://www.palantir.com/platforms/gotham/",
+      "status": "limited_content",
+      "evidenceUrl": "https://www.palantir.com/docs/docs/gotham/api",
+      "notes": "Gotham marketing page returns title only. Official API documentation confirms platform and interoperable data layer; broader description is conservative."
+    },
+    {
+      "slug": "mq-9-reaper",
+      "attemptedUrl": "https://www.ga-asi.com/remotely-piloted-aircraft/mq-9a",
+      "url": "https://www.ga-asi.com/remotely-piloted-aircraft/mq-9a",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.ga-asi.com/remotely-piloted-aircraft/mq-9a",
+      "notes": "GA-ASI page identifies MQ-9A Reaper remotely piloted aircraft."
+    },
+    {
+      "slug": "playstation-5",
+      "attemptedUrl": "https://www.playstation.com/en-us/ps5/",
+      "url": "https://www.playstation.com/en-us/ps5/",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.playstation.com/en-us/ps5/",
+      "notes": "Official PS5 product page retrieved."
+    },
+    {
+      "slug": "xbox-series-x",
+      "attemptedUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+      "url": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+      "notes": "Official Xbox Series X console product page retrieved."
+    },
+    {
+      "slug": "unreal-engine",
+      "attemptedUrl": "https://www.unrealengine.com",
+      "url": "https://www.unrealengine.com",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.unrealengine.com",
+      "notes": "Official Unreal Engine page identifies real-time 3D creation tools."
+    },
+    {
+      "slug": "fortnite",
+      "attemptedUrl": "https://www.fortnite.com",
+      "url": "https://www.fortnite.com",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.fortnite.com",
+      "notes": "Official Fortnite site exposes Epic and community game experiences."
+    },
+    {
+      "slug": "minecraft",
+      "attemptedUrl": "https://www.minecraft.net",
+      "url": "https://www.minecraft.net",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.minecraft.net",
+      "notes": "Minecraft site describes exploring worlds and creating, with game and community links."
+    },
+    {
+      "slug": "ea-sports-fc",
+      "attemptedUrl": "https://www.ea.com/games/ea-sports-fc",
+      "url": "https://www.ea.com/games/ea-sports-fc",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.ea.com/games/ea-sports-fc",
+      "notes": "Official EA SPORTS FC franchise page retrieved."
+    },
+    {
+      "slug": "nike-pegasus",
+      "attemptedUrl": "https://www.nike.com/w/pegasus-shoes-8nexhzy7ok",
+      "url": "https://www.nike.com/w/pegasus-shoes-8nexhzy7ok",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.nike.com/w/pegasus-shoes-8nexhzy7ok",
+      "notes": "Nike Pegasus shoes category retrieved."
+    },
+    {
+      "slug": "adidas-adizero",
+      "attemptedUrl": "https://www.adidas.com/us/adizero",
+      "url": "https://www.adidas.com/us/adizero",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.adidas.com/us/adizero",
+      "notes": "Adidas Adizero clothes and shoes category retrieved; footwear is a subset of range."
+    },
+    {
+      "slug": "whoop",
+      "attemptedUrl": "https://www.whoop.com",
+      "url": "https://www.whoop.com",
+      "status": "retrieved_redirect",
+      "evidenceUrl": "https://www.whoop.com",
+      "notes": "WHOOP site resolves to regional page with fitness membership content. No performance or medical outcome claims copied."
+    },
+    {
+      "slug": "garmin-forerunner",
+      "attemptedUrl": "https://www.garmin.com/en-US/c/sports-fitness/running-smartwatches/",
+      "url": "https://www.garmin.com/en-US/c/sports-fitness/running-smartwatches/",
+      "status": "limited_content",
+      "evidenceUrl": "https://www.garmin.com/en-US/c/sports-fitness/running-smartwatches/?pp=0",
+      "notes": "Garmin running watches page exposes title only. Official indexed category snippet identifies Forerunner GPS running watches."
+    },
+    {
+      "slug": "apple-watch-ultra",
+      "attemptedUrl": "https://www.apple.com/apple-watch-ultra/",
+      "url": "https://www.apple.com/apple-watch-ultra/",
+      "status": "retrieved_redirect",
+      "evidenceUrl": "https://www.apple.com/apple-watch-ultra/",
+      "notes": "Generic Ultra URL redirects to Watch overview listing Ultra sports/adventure watch. Generic URL retained to avoid version-specific claims."
+    },
+    {
+      "slug": "strava",
+      "attemptedUrl": "https://www.strava.com",
+      "url": "https://www.strava.com",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.strava.com",
+      "notes": "Strava homepage identifies running, cycling, hiking, tracking and sharing."
+    },
+    {
+      "slug": "youtube",
+      "attemptedUrl": "https://www.youtube.com",
+      "url": "https://www.youtube.com",
+      "status": "limited_content",
+      "evidenceUrl": "https://about.youtube/",
+      "notes": "App homepage sparse. Official About page provides creator, video product and community context."
+    },
+    {
+      "slug": "netflix",
+      "attemptedUrl": "https://www.netflix.com",
+      "url": "https://www.netflix.com",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.netflix.com",
+      "notes": "Netflix homepage identifies streaming television and films."
+    },
+    {
+      "slug": "spotify",
+      "attemptedUrl": "https://www.spotify.com",
+      "url": "https://www.spotify.com",
+      "status": "limited_content",
+      "evidenceUrl": "https://newsroom.spotify.com/company-info/",
+      "notes": "Homepage redirects to empty web player extract. Official newsroom explicitly describes music, podcasts and audiobooks."
+    },
+    {
+      "slug": "twitch",
+      "attemptedUrl": "https://www.twitch.tv",
+      "url": "https://www.twitch.tv",
+      "status": "limited_content",
+      "evidenceUrl": "https://www.twitch.tv/p/en/about/",
+      "notes": "Homepage extract empty. Official About page describes live communities and games alongside other entertainment."
+    },
+    {
+      "slug": "adobe-premiere-pro",
+      "attemptedUrl": "https://www.adobe.com/products/premiere.html",
+      "url": "https://www.adobe.com/products/premiere.html",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.adobe.com/products/premiere.html",
+      "notes": "Adobe page identifies professional video editing software; current page uses Adobe Premiere branding. Existing requested catalog name preserved."
+    },
+    {
+      "slug": "unreal-engine-for-media",
+      "attemptedUrl": "https://www.unrealengine.com/en-US/uses/film-television",
+      "url": "https://www.unrealengine.com/en-US/uses/film-television",
+      "status": "retrieved_redirect",
+      "evidenceUrl": "https://www.unrealengine.com/en-US/uses/film-television",
+      "notes": "Official Film & Television page resolves without locale prefix and supports virtual production use."
+    },
+    {
+      "slug": "instagram",
+      "attemptedUrl": "https://about.instagram.com",
+      "url": "https://about.instagram.com",
+      "status": "blocked",
+      "evidenceUrl": "https://about.fb.com/news/2020/09/new-messaging-features-for-instagram/amp/",
+      "notes": "Both Instagram About URLs failed. Meta search evidence supports messaging, but full destination and current photo/video description were not independently verified in this pass."
+    },
+    {
+      "slug": "whatsapp",
+      "attemptedUrl": "https://www.whatsapp.com",
+      "url": "https://www.whatsapp.com",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.whatsapp.com",
+      "notes": "WhatsApp official page identifies messaging and calling."
+    },
+    {
+      "slug": "discord",
+      "attemptedUrl": "https://discord.com",
+      "url": "https://discord.com",
+      "status": "retrieved",
+      "evidenceUrl": "https://discord.com",
+      "notes": "Discord official group chat page retrieved."
+    },
+    {
+      "slug": "reddit",
+      "attemptedUrl": "https://www.reddit.com",
+      "url": "https://www.reddit.com",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.reddit.com",
+      "notes": "Reddit official community homepage retrieved."
+    },
+    {
+      "slug": "linkedin",
+      "attemptedUrl": "https://www.linkedin.com",
+      "url": "https://www.linkedin.com",
+      "status": "retrieved",
+      "evidenceUrl": "https://www.linkedin.com",
+      "notes": "LinkedIn official professional network sign-up page retrieved."
+    },
+    {
+      "slug": "tiktok",
+      "attemptedUrl": "https://www.tiktok.com",
+      "url": "https://www.tiktok.com",
+      "status": "limited_content",
+      "evidenceUrl": "https://www.tiktok.com/about/?lang=en",
+      "notes": "App page redirects to empty explore extract. Official About and safety guide search results identify short-form video."
+    }
+  ]
+}
