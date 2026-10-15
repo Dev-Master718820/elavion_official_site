@@ -19,7 +19,7 @@ export function TrailerPlayer({slug,name,title,embedUrl,sourceUrl}:{slug:string;
       <span className="trailer-preview-shade"/>
       <span className="trailer-preview-top">OFFICIAL TRAILER <ExternalLink size={13}/></span>
       <span className="trailer-preview-center"><Image src={preview.logo} alt="" width={75} height={75}/><strong>{name}</strong><span className="trailer-play"><Play size={18} fill="currentColor"/>Load official trailer</span></span>
-      <span className="trailer-preview-caption">EDITORIAL CONTEXT IMAGE · NOT GAMEPLAY</span>
+      
     </button>:<div className="active-trailer"><iframe src={`${embedUrl}?rel=0`} title={title} allow="encrypted-media; fullscreen; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin"/><div className="trailer-player-help"><button onClick={()=>setActive(false)}>Close player</button><a href={sourceUrl} target="_blank" rel="noopener noreferrer">Player unavailable? Watch on YouTube ↗</a></div></div>}
   </div>;
 }

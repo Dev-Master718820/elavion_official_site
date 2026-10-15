@@ -11,7 +11,9 @@
       "sourceLicense": "Official public press-kit image supplied for media coverage; scoped editorial industry reference, with Hello Games credit. Not an unrestricted commercial license.",
       "publicationStatus": "editorial-press-kit",
       "width": 1920,
-      "height": 1080
+      "height": 1080,
+      "caption": "An explorer crosses a luminous alien landscape.",
+      "verifiedVisual": true
     },
     {
       "id": "no-mans-sky-2",
@@ -23,7 +25,9 @@
       "sourceLicense": "Official public press-kit image supplied for media coverage; scoped editorial industry reference, with Hello Games credit. Not an unrestricted commercial license.",
       "publicationStatus": "editorial-press-kit",
       "width": 1920,
-      "height": 1080
+      "height": 1080,
+      "caption": "Spacecraft skim bright turquoise waters between floating islands.",
+      "verifiedVisual": true
     },
     {
       "id": "no-mans-sky-3",
@@ -35,7 +39,9 @@
       "sourceLicense": "Official public press-kit image supplied for media coverage; scoped editorial industry reference, with Hello Games credit. Not an unrestricted commercial license.",
       "publicationStatus": "editorial-press-kit",
       "width": 1920,
-      "height": 1080
+      "height": 1080,
+      "caption": "A fighter approaches a massive fleet beside a ringed planet.",
+      "verifiedVisual": true
     },
     {
       "id": "satisfactory",
@@ -47,7 +53,9 @@
       "sourceLicense": "Official public Satisfactory Press Kit, linked by publisher for press and content creators; scoped credited editorial game coverage.",
       "publicationStatus": "editorial-press-kit",
       "width": 1920,
-      "height": 1080
+      "height": 1080,
+      "caption": "Engineers survey an extensive automated factory.",
+      "verifiedVisual": true
     },
     {
       "id": "factorio-space-age",
@@ -59,7 +67,155 @@
       "sourceLicense": "Publisher explicitly welcomes use of website assets, screenshots and artwork for site coverage, with link to game website: https://www.factorio.com/support/press-kit",
       "publicationStatus": "editorial-press-kit",
       "width": 1680,
-      "height": 601
+      "height": 601,
+      "caption": "Foundries and conveyor systems operate above volcanic lava.",
+      "verifiedVisual": true
+    },
+    {
+      "id": "silksong-grotto",
+      "title": "Hollow Knight: Silksong",
+      "src": "/images/games/slides/silksong-grotto.webp",
+      "source": "https://hollowknightsilksong.com/",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1iZKMyc2feFF2l_0Ljv2NpuqPyJJeXKiq",
+      "rightsHolder": "Team Cherry",
+      "sourceLicense": "Official public press-kit screenshot, supplied by Team Cherry for editorial game coverage. Copyright retained by Team Cherry.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "Hornet explores a vivid green underground grotto.",
+      "verifiedVisual": true,
+      "pressKit": "https://drive.google.com/drive/folders/1VE_YoUA36IwZRHnZhvEGUhqgU2GIEm4y"
+    },
+    {
+      "id": "silksong-coral",
+      "title": "Hollow Knight: Silksong",
+      "src": "/images/games/slides/silksong-coral.webp",
+      "source": "https://hollowknightsilksong.com/",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1zwYmAzTEjvnaxPFT6I51KEBR3ocsnF2x",
+      "rightsHolder": "Team Cherry",
+      "sourceLicense": "Official public press-kit screenshot, supplied by Team Cherry for editorial game coverage. Copyright retained by Team Cherry.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "Hornet faces airborne foes in a blue coral cavern.",
+      "verifiedVisual": true,
+      "pressKit": "https://drive.google.com/drive/folders/1VE_YoUA36IwZRHnZhvEGUhqgU2GIEm4y"
+    },
+    {
+      "id": "silksong-chambers",
+      "title": "Hollow Knight: Silksong",
+      "src": "/images/games/slides/silksong-chambers.webp",
+      "source": "https://hollowknightsilksong.com/",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1qk_ThFDIVZk_8hb2GXPIMtMZ-rJRp7ck",
+      "rightsHolder": "Team Cherry",
+      "sourceLicense": "Official public press-kit screenshot, supplied by Team Cherry for editorial game coverage. Copyright retained by Team Cherry.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "Hornet battles an armored opponent in torchlit chambers.",
+      "verifiedVisual": true,
+      "pressKit": "https://drive.google.com/drive/folders/1VE_YoUA36IwZRHnZhvEGUhqgU2GIEm4y"
+    },
+    {
+      "id": "silksong-chorus",
+      "title": "Hollow Knight: Silksong",
+      "src": "/images/games/slides/silksong-chorus.webp",
+      "source": "https://hollowknightsilksong.com/",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1ELeDHr9aPNjwhkPIazvLNp3fN38SLXWI",
+      "rightsHolder": "Team Cherry",
+      "sourceLicense": "Official public press-kit screenshot, supplied by Team Cherry for editorial game coverage. Copyright retained by Team Cherry.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "Hornet confronts a glowing enemy above a fiery arena.",
+      "verifiedVisual": true,
+      "pressKit": "https://drive.google.com/drive/folders/1VE_YoUA36IwZRHnZhvEGUhqgU2GIEm4y"
+    },
+    {
+      "id": "silksong-greymoor",
+      "title": "Hollow Knight: Silksong",
+      "src": "/images/games/slides/silksong-greymoor.webp",
+      "source": "https://hollowknightsilksong.com/",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1fO5mBm0g75jlaxpHQspcJ3OT5tZPaP1I",
+      "rightsHolder": "Team Cherry",
+      "sourceLicense": "Official public press-kit screenshot, supplied by Team Cherry for editorial game coverage. Copyright retained by Team Cherry.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "Hornet crosses misty, lamp-lit Greymoor.",
+      "verifiedVisual": true,
+      "pressKit": "https://drive.google.com/drive/folders/1VE_YoUA36IwZRHnZhvEGUhqgU2GIEm4y"
+    },
+    {
+      "id": "silksong-clover",
+      "title": "Hollow Knight: Silksong",
+      "src": "/images/games/slides/silksong-clover.webp",
+      "source": "https://hollowknightsilksong.com/",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ru9WXnq4XiskiXUtRKONgYiHtFLJMsNz",
+      "rightsHolder": "Team Cherry",
+      "sourceLicense": "Official public press-kit screenshot, supplied by Team Cherry for editorial game coverage. Copyright retained by Team Cherry.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "Hornet leaps across a green cavern filled with clover.",
+      "verifiedVisual": true,
+      "pressKit": "https://drive.google.com/drive/folders/1VE_YoUA36IwZRHnZhvEGUhqgU2GIEm4y"
+    },
+    {
+      "id": "satisfactory-explore",
+      "title": "Satisfactory",
+      "src": "/images/games/slides/satisfactory-explore.webp",
+      "source": "https://www.satisfactorygame.com/press",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1CeqwbUluLCciwtrpSYIOVFeB3LEHRQ-0",
+      "rightsHolder": "Coffee Stain Studios",
+      "sourceLicense": "Official public Satisfactory Press Kit, linked by publisher for press and content creators; scoped credited editorial game coverage.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "A player explores a storm-lit alien shoreline.",
+      "verifiedVisual": true
+    },
+    {
+      "id": "satisfactory-outpost",
+      "title": "Satisfactory",
+      "src": "/images/games/slides/satisfactory-outpost.webp",
+      "source": "https://www.satisfactorygame.com/press",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1rhcr_MOBEAqsQui2pWpLoIfKPlpCH6Y-",
+      "rightsHolder": "Coffee Stain Studios",
+      "sourceLicense": "Official public Satisfactory Press Kit, linked by publisher for press and content creators; scoped credited editorial game coverage.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "Engineers cross a sunlit desert outpost.",
+      "verifiedVisual": true
+    },
+    {
+      "id": "satisfactory-train",
+      "title": "Satisfactory",
+      "src": "/images/games/slides/satisfactory-train.webp",
+      "source": "https://www.satisfactorygame.com/press",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=12zVyANPytxfSeiSAgMv1n3HOv22rrlFx",
+      "rightsHolder": "Coffee Stain Studios",
+      "sourceLicense": "Official public Satisfactory Press Kit, linked by publisher for press and content creators; scoped credited editorial game coverage.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "A freight train winds through a lush industrial landscape.",
+      "verifiedVisual": true
+    },
+    {
+      "id": "no-mans-sky-4",
+      "title": "No Man\u2019s Sky",
+      "src": "/images/games/slides/no-mans-sky-4.webp",
+      "source": "https://www.nomanssky.com/press/",
+      "downloadUrl": "https://www.nomanssky.com/media/nmhgblhx/nms_contemporary_13.jpg",
+      "rightsHolder": "Hello Games",
+      "sourceLicense": "Official public press-kit image supplied for media coverage; scoped credited editorial game coverage.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080,
+      "caption": "An underwater explorer swims beneath giant sea creatures.",
+      "verifiedVisual": true
     }
   ]
 }
