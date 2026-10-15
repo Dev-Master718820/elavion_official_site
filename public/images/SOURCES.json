@@ -70,5 +70,23 @@
     "license": "Unsplash License",
     "license_url": "https://unsplash.com/license",
     "license_checked": "2026-10-14"
+  },
+  {
+    "file": "healthcare-clinical.jpg",
+    "source": "https://images.unsplash.com/photo-1579684453423-f84349ef60b0?auto=format&fit=crop&w=1800&q=85&fm=jpg",
+    "page": "https://unsplash.com/photos/KrsoedfRAf4",
+    "photographer": "National Cancer Institute",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "license_checked": "2026-10-15"
+  },
+  {
+    "file": "defense-flight.jpg",
+    "source": "https://images.unsplash.com/photo-1470936038081-27e790e22397?auto=format&fit=crop&w=1800&q=85&fm=jpg",
+    "page": "https://unsplash.com/photos/LJOxm6ILgwg",
+    "photographer": "Cibi Chakravarthi",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "license_checked": "2026-10-15"
   }
 ]

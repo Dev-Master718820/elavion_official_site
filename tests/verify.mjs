@@ -34,7 +34,15 @@ await go('/');assert.match(await evaluate("document.querySelector('h1').textCont
 await click('.nav-trigger');await waitFor("!!document.querySelector('#industry-menu')");assert.equal(await evaluate("document.querySelectorAll('.mega-grid>div').length"),5);
 await command('Input.dispatchKeyEvent',{type:'keyDown',key:'Escape',code:'Escape'});await waitFor("!document.querySelector('#industry-menu')");
 console.log('PASS: desktop five-division mega menu and Escape dismissal.');
-await go('/products/');await input('.directory input','Garmin');await waitFor("document.querySelectorAll('.directory .product-card').length===1");assert.match(await evaluate("document.querySelector('.directory').textContent"),/Garmin Forerunner/);
+await go('/products/');
+await evaluate("(async()=>{for(const i of Array.from(document.querySelectorAll('.directory .product-visual img'))){i.loading='eager';await i.decode().catch(()=>{})}})()");
+assert(await evaluate("document.querySelectorAll('.directory .product-visual img').length>=30"),'Product catalog should be image-led');
+assert(await evaluate("Array.from(document.querySelectorAll('.directory .product-visual img')).every(i=>i.complete&&i.naturalWidth>0)"),'Product images must load');
+await evaluate("document.querySelector('.directory').scrollIntoView()");await sleep(300);
+const productShot=await command('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});writeFileSync('/tmp/elavion-products.png',Buffer.from(productShot.data,'base64'));
+console.log('PASS: local product photographs and platform logos load.');
+await evaluate("document.querySelector('.directory .product-visual img').dispatchEvent(new Event('error'))");await waitFor("!!document.querySelector('.directory .product-art[role=img]')");console.log('PASS: failed product image falls back to an accessible editorial panel.');
+await input('.directory input','Garmin');await waitFor("document.querySelectorAll('.directory .product-card').length===1");assert.match(await evaluate("document.querySelector('.directory').textContent"),/Garmin Forerunner/);
 await input('.directory input','not-a-real-product-xyz');await waitFor("!!document.querySelector('.empty-state')");await click('.reset');
 await evaluate("Array.from(document.querySelectorAll('.filter-chips button')).find(b=>b.textContent==='Entertainment').click()");await sleep(200);
 await evaluate("Array.from(document.querySelectorAll('.filter-chips button')).find(b=>b.textContent==='Sports').click()");await waitFor("document.querySelectorAll('.directory .product-card').length===6");

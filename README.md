@@ -44,7 +44,7 @@ Browser tests use Node’s built-in WebSocket client, serve the static export, a
 
 - Contact is client-side validation only. Messages are not sent or persisted; no backend, database, accounts, or CMS is included.
 - There are no claimed current vacancies, executives, offices, clients, corporate achievements, or partnerships.
-- Product artwork uses original typographic reference panels, not fabricated product photography or unlicensed manufacturer artwork. Names and trademarks belong to their owners.
+- Product cards use local, credited product photographs and platform/brand SVG marks. Wikimedia photo licenses and Simple Icons sources are recorded in `product-photo-manifest.json` and `platform-image-manifest.json`; image source and license links are displayed on product detail pages. When an image cannot load, a labeled typographic reference remains available. Names and trademarks belong to their owners.
 - Editorial photography does not depict actual ELAVION premises or personnel. Review the image source manifest before commercial distribution.
 - The brand and legal demonstration text require trademark/domain clearance and legal review before a commercial launch.
 - Source checks record sparse or blocked manufacturer pages. Recheck product availability and destinations before commercial publication.

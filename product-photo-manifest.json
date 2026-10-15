@@ -1,0 +1,137 @@
+{
+  "nvidia-dgx-systems": {
+    "image": "/images/products/nvidia-dgx-systems.webp",
+    "alt": "Oblique view of an NVIDIA DGX Spark.",
+    "author": "Daniel Lu (User:dllu)",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nvidia_DGX_Spark_oblique_view_dllu.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Nvidia_DGX_Spark_oblique_view_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "nvidia-h100": {
+    "image": "/images/products/nvidia-h100.webp",
+    "alt": "View of the high-performance graphics card NVIDIA H100, which is based on the Hopper architecture. The NVIDIA H100 PCIe has the following features: RAM memory type: HBM2, RAM: 80 GiB, memory speed: 2 TiB/s, 14592 Cuda cores. The cards usually run in ",
+    "author": "\u6781\u5ba2\u6e7eGeekerwan",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NVIDIA_H100_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_011.png",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NVIDIA_H100_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_011.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "da-vinci-surgical-system": {
+    "image": "/images/products/da-vinci-surgical-system.webp",
+    "alt": "Xi",
+    "author": "Alvarogarciamd",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Da_Vinci_Xi.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/New_Da_Vinci_Xi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "magnetom-mri-systems": {
+    "image": "/images/products/magnetom-mri-systems.webp",
+    "alt": "Patient being positioned for MR study of the head and abdomen. \n Device pictured: Siemens MAGNETOM Aera (1.5 Telsa superconducting magnet)",
+    "author": "Ptrump16",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siemens_Magnetom_Aera_MRI_scanner.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Siemens_Magnetom_Aera_MRI_scanner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "minimed-insulin-pump-systems": {
+    "image": "/images/products/minimed-insulin-pump-systems.webp",
+    "alt": "Minimed Mobile APP is in use on a mobile phone (Samsung Galaxy S21).",
+    "author": "MailariX",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medtronic_MiniMed_780G_insulinpump.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Medtronic_MiniMed_780G_insulinpump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "f-35-lightning-ii": {
+    "image": "/images/products/f-35-lightning-ii.webp",
+    "alt": "A U.S. Air Force F-35A Lightning II Joint Strike Fighter from the 58th Fighter Squadron, 33rd Fighter Wing, Eglin AFB, Fla. performs an aerial refueling mission with a KC-135 Stratotanker from the 336th Air Refueling Squadron from March ARB, Calif., ",
+    "author": "U.S. Air Force photo by Master Sgt. Donald R. Allen",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:F-35A_flight_(cropped).jpg",
+    "licenseUrl": "",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "b-21-raider": {
+    "image": "/images/products/b-21-raider.webp",
+    "alt": "Northrop Grumman B-21 Raider in a hangar at Plant 42, Palmdale, California.",
+    "author": "Staff Sgt. Jeremy Mosier, United States Air Force",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-21_Plant_42_hangar.jpg",
+    "licenseUrl": "",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/B-21_Plant_42_hangar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "playstation-5": {
+    "image": "/images/products/playstation-5.webp",
+    "alt": "PlayStation 5 console set vertically with the stand and DualSense controller charging",
+    "author": "Soberian (this retouched file)Osh33m (original photograph)",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:PlayStation_5_and_DualSense_with_transparent_background.png",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "xbox-series-x": {
+    "image": "/images/products/xbox-series-x.webp",
+    "alt": "Xbox Series X console with controller",
+    "author": "Der. Bellemer",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_Series_X_mit_Controller_(transparent_background).png",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Xbox_Series_X_mit_Controller_%28transparent_background%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "garmin-forerunner": {
+    "image": "/images/products/garmin-forerunner.webp",
+    "alt": "Garmin Forerunner 265",
+    "author": "3r1ccc",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forerunner_265.jpg",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Forerunner_265.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "apple-watch-ultra": {
+    "image": "/images/products/apple-watch-ultra.webp",
+    "alt": "Apple Watch Ultra\u3002\u540d\u53e4\u5c4b\u5e02\u5185\u306e\u5bb6\u96fb\u91cf\u8ca9\u5e97\u3067\u64ae\u5f71\u3002",
+    "author": "KKPCW\uff08Kyu3\uff09",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Ultra_-_2.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Apple_Watch_Ultra_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "nike-pegasus": {
+    "image": "/images/products/nike-pegasus.webp",
+    "alt": "Nike Zoom Pegasus 38 running shoe",
+    "author": "Ssu",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nike_Zoom_Pegasus_38_running_shoe.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nike_Zoom_Pegasus_38_running_shoe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "adidas-adizero": {
+    "image": "/images/products/adidas-adizero.webp",
+    "alt": "Adizero Adios Pro 3 at Adidas Orchard Road on 5 April 2024.",
+    "author": "Pangalau",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adizero_Adios_Pro_3.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Adizero_Adios_Pro_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "mq-9-reaper": {
+    "image": "/images/products/mq-9-reaper.webp",
+    "alt": "A MQ-9 Reaper US military unmanned aerial vehicle prepares to land after a mission in support of Operation Enduring Freedom in Afghanistan. The Reaper has the ability to carry both precision-guided bombs and air-to-ground missiles.",
+    "author": "U.S. Air Force photo/Staff Sgt. Brian Ferguson",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_in_flight_(2007).jpg",
+    "licenseUrl": "",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/MQ-9_Reaper_in_flight_%282007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "patriot-system": {
+    "image": "/images/products/patriot-system.webp",
+    "alt": "Soldiers with 1st Battalion, 1st Air Defense Artillery Regiment, fire the MIM-104 Patriot to destroy a drone target Jul. 16, 2021, at Camp Growl in Queensland, Australia, during Exercise Talisman Sabre 2021. This is the first time the MIM-104 Patriot",
+    "author": "Lance Cpl. Alyssa Chuluda",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:210716-M-VR873-1132_-_MIM-104_Patriot_at_exercise_Talisman_Sabre_21_(Image_1_of_2).jpg",
+    "licenseUrl": "",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/210716-M-VR873-1132_-_MIM-104_Patriot_at_exercise_Talisman_Sabre_21_%28Image_1_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  }
+}
