@@ -1,5 +1,5 @@
 import type {BrandKey} from '@/components/DivisionBrand';
-export interface GalleryImage {image:string;alt:string;label:string;title:string;description:string;source:string;author:string;license:string;licenseUrl:string}
+export interface GalleryImage {image:string;alt:string;label:string;title:string;description:string;source:string;author:string;license:string;licenseUrl:string;href?:string;kind?:'game'}
 export const galleryImages:Record<BrandKey,GalleryImage[]> = {
   "ai": [
     {
@@ -108,15 +108,17 @@ export const galleryImages:Record<BrandKey,GalleryImage[]> = {
   ],
   "entertainment": [
     {
-      "image": "/images/gaming.jpg",
-      "alt": "Arcade machines in a gaming venue",
-      "label": "INTERACTIVE EXPERIENCES",
-      "title": "Play creates a shared language.",
-      "description": "Games give people a reason to gather, explore, compete, and return.",
-      "source": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1600&q=85&fm=jpg",
-      "author": "Unsplash contributor",
-      "license": "Unsplash License",
-      "licenseUrl": "https://unsplash.com/license"
+      "image": "/images/games/slides/no-mans-sky-2.webp",
+      "alt": "Spacecraft flying above a turquoise lake between mountains in No Man’s Sky",
+      "label": "FLIGHT & DISCOVERY",
+      "title": "No Man’s Sky",
+      "description": "Skim across turquoise water and mountain valleys. This official screenshot captures the scale and color of No Man’s Sky.",
+      "source": "https://www.nomanssky.com/press/",
+      "author": "Hello Games",
+      "license": "Official press kit",
+      "licenseUrl": "https://www.nomanssky.com/press/",
+      "href": "https://www.nomanssky.com/",
+      "kind": "game"
     },
     {
       "image": "/images/editorial/sports-basketball.jpg",
@@ -143,37 +145,69 @@ export const galleryImages:Record<BrandKey,GalleryImage[]> = {
   ],
   "gaming": [
     {
-      "image": "/images/gaming.jpg",
-      "alt": "Arcade machines in a gaming venue",
-      "label": "INTERACTIVE EXPERIENCES",
-      "title": "Play creates a shared language.",
-      "description": "Games give people a reason to gather, explore, compete, and return.",
-      "source": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1600&q=85&fm=jpg",
-      "author": "Unsplash contributor",
-      "license": "Unsplash License",
-      "licenseUrl": "https://unsplash.com/license"
+      "image": "/images/games/slides/no-mans-sky-2.webp",
+      "alt": "Spacecraft flying above a turquoise lake between mountains in No Man’s Sky",
+      "label": "FLIGHT & DISCOVERY",
+      "title": "No Man’s Sky",
+      "description": "Skim across turquoise water and mountain valleys. This official screenshot captures the scale and color of No Man’s Sky.",
+      "source": "https://www.nomanssky.com/press/",
+      "author": "Hello Games",
+      "license": "Official press kit",
+      "licenseUrl": "https://www.nomanssky.com/press/",
+      "href": "https://www.nomanssky.com/",
+      "kind": "game"
     },
     {
-      "image": "/images/products/playstation-5.webp",
-      "alt": "PlayStation 5 console with DualSense controller",
-      "label": "THIRD-PARTY CONSOLE",
-      "title": "PlayStation 5",
-      "description": "Sony’s console is an editorial reference for the hardware around which gaming communities form.",
-      "source": "https://commons.wikimedia.org/wiki/File:PlayStation_5_and_DualSense_with_transparent_background.png",
-      "author": "Soberian (this retouched file)Osh33m (original photograph)",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      "image": "/images/games/slides/satisfactory.webp",
+      "alt": "First-person view over a large industrial factory surrounded by forest and cliffs in Satisfactory",
+      "label": "BUILDING & AUTOMATION",
+      "title": "Satisfactory",
+      "description": "An industrial playground set against an alien wilderness. Satisfactory turns factory design into a world to explore, build, and expand.",
+      "source": "https://www.satisfactorygame.com/press",
+      "author": "Coffee Stain Studios",
+      "license": "Official press kit",
+      "licenseUrl": "https://www.satisfactorygame.com/press",
+      "href": "https://www.satisfactorygame.com/",
+      "kind": "game"
     },
     {
-      "image": "/images/products/xbox-series-x.webp",
-      "alt": "Xbox Series X console with controller",
-      "label": "THIRD-PARTY CONSOLE",
-      "title": "Xbox Series X",
-      "description": "Microsoft’s console illustrates another part of the gaming landscape. No partnership is implied.",
-      "source": "https://commons.wikimedia.org/wiki/File:Xbox_Series_X_mit_Controller_(transparent_background).png",
-      "author": "Der. Bellemer",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      "image": "/images/games/slides/factorio-space-age.webp",
+      "alt": "Factory infrastructure spread across a volcanic landscape in Factorio: Space Age",
+      "label": "STRATEGY & WORLD BUILDING",
+      "title": "Factorio: Space Age",
+      "description": "A volcanic landscape becomes a network of machines and production lines. Space Age takes Factorio’s factory-building systems to new planetary environments.",
+      "source": "https://factorio.com/space-age/content",
+      "author": "Wube Software",
+      "license": "Publisher asset permission",
+      "licenseUrl": "https://factorio.com/space-age/content",
+      "href": "https://www.factorio.com/space-age/overview",
+      "kind": "game"
+    },
+    {
+      "image": "/images/games/slides/no-mans-sky-1.webp",
+      "alt": "An explorer overlooking an alien landscape in No Man’s Sky",
+      "label": "PLANETARY EXPLORATION",
+      "title": "No Man’s Sky",
+      "description": "Strange terrain, distant horizons, and a universe built around discovery. A view into Hello Games’ science-fiction exploration game.",
+      "source": "https://www.nomanssky.com/press/",
+      "author": "Hello Games",
+      "license": "Official press kit",
+      "licenseUrl": "https://www.nomanssky.com/press/",
+      "href": "https://www.nomanssky.com/",
+      "kind": "game"
+    },
+    {
+      "image": "/images/games/slides/no-mans-sky-3.webp",
+      "alt": "Large spacecraft above a planet in a colorful star field in No Man’s Sky",
+      "label": "BEYOND THE ATMOSPHERE",
+      "title": "No Man’s Sky",
+      "description": "Leave the surface behind. Spacecraft, planetary vistas, and deep-space journeys extend the game’s sense of exploration.",
+      "source": "https://www.nomanssky.com/press/",
+      "author": "Hello Games",
+      "license": "Official press kit",
+      "licenseUrl": "https://www.nomanssky.com/press/",
+      "href": "https://www.nomanssky.com/",
+      "kind": "game"
     }
   ],
   "sports": [

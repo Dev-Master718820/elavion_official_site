@@ -1,0 +1,65 @@
+{
+  "notice": "Official public press assets used only for attributed third-party editorial game coverage; copyright remains with each publisher. No endorsement or ELAVION ownership implied.",
+  "assets": [
+    {
+      "id": "no-mans-sky-1",
+      "title": "No Man\u2019s Sky",
+      "src": "/images/games/slides/no-mans-sky-1.webp",
+      "source": "https://www.nomanssky.com/press/",
+      "downloadUrl": "https://www.nomanssky.com/media/o2lbdbq5/nms_contemporary_09.jpg",
+      "rightsHolder": "Hello Games",
+      "sourceLicense": "Official public press-kit image supplied for media coverage; scoped editorial industry reference, with Hello Games credit. Not an unrestricted commercial license.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "no-mans-sky-2",
+      "title": "No Man\u2019s Sky",
+      "src": "/images/games/slides/no-mans-sky-2.webp",
+      "source": "https://www.nomanssky.com/press/",
+      "downloadUrl": "https://www.nomanssky.com/media/1cgdmdi5/nms_contemporary_10.jpg",
+      "rightsHolder": "Hello Games",
+      "sourceLicense": "Official public press-kit image supplied for media coverage; scoped editorial industry reference, with Hello Games credit. Not an unrestricted commercial license.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "no-mans-sky-3",
+      "title": "No Man\u2019s Sky",
+      "src": "/images/games/slides/no-mans-sky-3.webp",
+      "source": "https://www.nomanssky.com/press/",
+      "downloadUrl": "https://www.nomanssky.com/media/i5bn3wxc/nms_contemporary_03.jpg",
+      "rightsHolder": "Hello Games",
+      "sourceLicense": "Official public press-kit image supplied for media coverage; scoped editorial industry reference, with Hello Games credit. Not an unrestricted commercial license.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "satisfactory",
+      "title": "Satisfactory",
+      "src": "/images/games/slides/satisfactory.webp",
+      "source": "https://www.satisfactorygame.com/press",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1yzSNatBbEwNULZMwizCpr-F8TAkEgECz",
+      "rightsHolder": "Coffee Stain Studios",
+      "sourceLicense": "Official public Satisfactory Press Kit, linked by publisher for press and content creators; scoped credited editorial game coverage.",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "factorio-space-age",
+      "title": "Factorio: Space Age",
+      "src": "/images/games/slides/factorio-space-age.webp",
+      "source": "https://factorio.com/space-age/content",
+      "downloadUrl": "https://cdn.factorio.com/assets/img/blog/fff-418-vulcanus.png",
+      "rightsHolder": "Wube Software",
+      "sourceLicense": "Publisher explicitly welcomes use of website assets, screenshots and artwork for site coverage, with link to game website: https://www.factorio.com/support/press-kit",
+      "publicationStatus": "editorial-press-kit",
+      "width": 1680,
+      "height": 601
+    }
+  ]
+}
