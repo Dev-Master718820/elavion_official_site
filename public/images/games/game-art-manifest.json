@@ -1,0 +1,45 @@
+{
+  "usage": "Official trailer embeds for editorial industry references. No image download license is asserted; do not extract frames or republish thumbnail files. Preserve YouTube player and publisher attribution. These are third-party games, not ELAVION products, sponsors or partners.",
+  "verified": "2026-10-15",
+  "trailers": [
+    {
+      "slug": "fortnite",
+      "game": "Fortnite",
+      "title": "Fortnite Battle Royale \u2014 Gameplay Trailer",
+      "videoId": "2gUtfBmw86Y",
+      "owner": "Epic Games",
+      "officialChannel": "Fortnite",
+      "sourceUrl": "https://www.youtube.com/watch?v=2gUtfBmw86Y",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/2gUtfBmw86Y",
+      "policyUrl": "https://legal.epicgames.com/epicgames/fan-art-policy",
+      "caption": "Official Fortnite trailer. Epic Games. Editorial reference; no affiliation with ELAVION.",
+      "officialProductUrl": "https://www.fortnite.com"
+    },
+    {
+      "slug": "minecraft",
+      "game": "Minecraft",
+      "title": "Official Minecraft Trailer",
+      "videoId": "MmB9b5njVbA",
+      "owner": "Mojang / Microsoft",
+      "officialChannel": "Minecraft",
+      "sourceUrl": "https://www.youtube.com/watch?v=MmB9b5njVbA",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/MmB9b5njVbA",
+      "policyUrl": "https://www.minecraft.net/en-us/usage-guidelines",
+      "caption": "Official Minecraft trailer. Mojang / Microsoft. Editorial reference; no affiliation with ELAVION.",
+      "officialProductUrl": "https://www.minecraft.net"
+    },
+    {
+      "slug": "ea-sports-fc",
+      "game": "EA SPORTS FC 25",
+      "title": "EA SPORTS FC 25 \u2014 Official Reveal Trailer",
+      "videoId": "7-R2Q3Xi_bo",
+      "owner": "Electronic Arts",
+      "officialChannel": "Epic Games",
+      "sourceUrl": "https://www.youtube.com/watch?v=7-R2Q3Xi_bo",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/7-R2Q3Xi_bo",
+      "policyUrl": "https://www.ea.com/legal",
+      "caption": "Official EA SPORTS FC 25 trailer. Electronic Arts. Editorial reference; no affiliation with ELAVION.",
+      "officialProductUrl": "https://www.ea.com/games/ea-sports-fc/fc-25"
+    }
+  ]
+}

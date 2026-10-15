@@ -31,3 +31,98 @@ footer{background:var(--navy);color:#e2e9f4;padding-top:75px}.footer-grid{displa
 .image-credit a{text-decoration:underline;text-underline-offset:3px;color:#254e8e}
 .image-credit a:hover{color:#2563eb}
 @media(max-width:700px){.product-detail .product-image-stage{inset:45px 20px 35px}.product-detail .visual-logo .product-image-stage{inset:80px 28% 70px}}
+
+/* A unified family of division marks, based on the supplied wing reference. */
+.division-mark{width:54px;height:54px;object-fit:contain;flex-shrink:0}
+.division-brand{display:flex;align-items:center;gap:18px}
+.division-brand>div>span{font-size:12px;letter-spacing:.18em;font-weight:600}
+.division-brand p{font-size:12px;margin-top:5px;color:inherit;opacity:.7}
+.page-hero .division-brand{margin-bottom:26px}
+.page-hero .division-brand .division-mark{width:64px;height:64px}
+.page-hero:has(.division-brand){min-height:620px;height:auto}
+.page-hero:has(.division-brand) .page-hero-content{padding-top:145px;padding-bottom:70px}
+.mega-brand-icon{display:flex;align-items:center;justify-content:space-between}
+.mega-brand-icon .division-mark{width:45px;height:45px}
+.tile-index{display:flex;align-items:center;gap:12px}
+.tile-index .division-mark{width:40px;height:40px}
+.direction-heading{display:flex;justify-content:space-between;align-items:center;gap:25px;padding-bottom:32px;border-bottom:1px solid #dce3ec}
+.concept-status{border:1px solid #c4d1e4;background:#f3f6fb;padding:8px 12px;font-size:8px;letter-spacing:.12em;color:#526680;white-space:nowrap}
+.direction-intro{display:grid;grid-template-columns:1fr 1fr;gap:70px;margin:42px 0}
+.direction-intro h2{font-size:clamp(33px,3.5vw,48px);margin-top:17px;max-width:550px}
+.direction-intro .lead{font-size:17px;line-height:1.8;color:#435065}
+.intended-audience{font-size:12px;margin-top:22px}.intended-audience strong{color:#263950}
+.concept-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px}
+.concept-grid article{padding:28px 0 0;border-top:2px solid #d9e2ef}
+.concept-number{font-size:11px;letter-spacing:.1em;color:#6880a1}
+.concept-grid h3{font-size:25px;line-height:1.25;margin:20px 0 17px}
+.concept-grid>article>p{font-size:13px;min-height:90px}
+.concept-example{margin-top:20px;padding:20px;background:#f5f7fa;border-left:2px solid #a8bddb}
+.concept-example>span{font-size:8px;letter-spacing:.12em;color:#61738c}
+.concept-example p{font-size:11px;margin-top:10px;color:#4c5d73;line-height:1.8}
+.direction-note{font-size:11px;color:#7a8594;margin-top:28px;line-height:1.8;max-width:950px}
+.portfolio-lead{font-size:18px;line-height:1.8;max-width:870px;margin-bottom:40px}
+.portfolio-list>a{display:flex;align-items:center;gap:35px;border-top:1px solid #d9e1eb;padding:35px 0}
+.portfolio-list>a:last-child{border-bottom:1px solid #d9e1eb}
+.portfolio-list .division-mark{width:70px;height:70px}
+.portfolio-list h3{font-size:29px;margin:12px 0}.portfolio-list p:not(.eyebrow){font-size:12px}
+.portfolio-list>a>span{margin-left:auto;display:flex;align-items:center;gap:15px;font-size:10px;white-space:nowrap}
+.portfolio-list>a:hover h3{color:#2563eb}
+.brand-family-title{margin:20px 0 45px}
+.brand-family{display:grid;grid-template-columns:repeat(3,1fr);gap:50px 35px;background:#f7f9fb;padding:50px}
+.brand-family .division-brand{flex-direction:column;text-align:center;gap:14px}
+.brand-family .division-mark{width:78px;height:78px}
+.brand-family .division-brand>div>span{font-size:10px;letter-spacing:.15em}
+.industry-gallery-section{background:#f2f5f8}
+.industry-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:30px}
+.industry-gallery figure{margin:0;background:white}
+.industry-gallery .gallery-lead{grid-row:span 2}
+.gallery-photo{position:relative;height:260px;overflow:hidden;background:#dce3eb}
+.gallery-photo img{object-fit:cover;transition:transform .5s}
+.industry-gallery figure:hover img{transform:scale(1.025)}
+.gallery-lead .gallery-photo{height:550px}
+.industry-gallery figcaption{padding:25px 30px}
+.industry-gallery figcaption .eyebrow{font-size:8px;color:#6c7d95}
+.industry-gallery figcaption h3{font-size:27px;margin:12px 0}
+.industry-gallery figcaption p{font-size:12px;line-height:1.8}
+.industry-gallery figcaption>a{display:inline-block;font-size:9px;color:#75839a;margin-top:20px}
+.industry-gallery:not(:has(figure:nth-child(3))) .gallery-lead{grid-row:auto}
+.industry-gallery:not(:has(figure:nth-child(3))) .gallery-photo{height:350px}
+.game-showcase{background:#0b1426;color:white}
+.game-showcase .section-heading .eyebrow{color:#9aacc5}
+.game-showcase-intro{max-width:760px;font-size:14px;color:#aabbd3;margin-bottom:40px}
+.game-trailers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:35px}
+.game-trailer:first-child{grid-column:1/-1;display:grid;grid-template-columns:1.8fr 1fr;align-items:center;background:#121f35}
+.trailer-frame{position:relative;aspect-ratio:16/9;background:#030912}
+.trailer-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.trailer-copy{padding:28px 0}.game-trailer:first-child .trailer-copy{padding:30px}
+.trailer-copy .eyebrow{color:#99aecb;font-size:9px}
+.trailer-copy h3{font-size:32px;margin:15px 0}.trailer-copy>p:not(.eyebrow){font-size:12px;color:#a4b5ce}
+.trailer-links{display:flex;flex-wrap:wrap;gap:22px;margin-top:22px}
+.trailer-links>a{display:flex;gap:9px;align-items:center;font-size:10px;color:#dbe7f9}
+.trailer-links>a:hover{color:#8ebaff}
+.trailer-note{font-size:10px;border-top:1px solid #ffffff25;padding-top:25px;margin-top:30px;color:#8297b4}
+@media(max-width:960px){.direction-intro{gap:35px}.concept-grid{gap:20px}.concept-grid h3{font-size:22px}.concept-grid>article>p{min-height:115px}.portfolio-list>a>span{font-size:0;gap:0}.brand-family{padding:35px 25px;gap:35px 20px}.gallery-lead .gallery-photo{height:470px}.game-trailer:first-child{display:block}.game-trailer:first-child .trailer-copy{padding:28px}}
+@media(max-width:700px){.page-hero:has(.division-brand){min-height:650px}.page-hero .division-brand .division-mark{width:52px;height:52px}.division-brand>div>span{font-size:10px;letter-spacing:.12em}.direction-heading{align-items:flex-start;flex-direction:column;gap:20px}.direction-heading .division-mark{width:48px;height:48px}.direction-intro{grid-template-columns:1fr;gap:25px;margin:32px 0}.direction-intro .lead{font-size:15px}.concept-grid{grid-template-columns:1fr;gap:32px}.concept-grid>article>p{min-height:0;font-size:13px}.concept-grid h3{font-size:27px}.concept-example{margin-top:18px}.portfolio-lead{font-size:15px}.portfolio-list>a{gap:20px;align-items:flex-start;padding:28px 0}.portfolio-list .division-mark{width:42px;height:42px}.portfolio-list h3{font-size:23px}.portfolio-list .eyebrow{font-size:8px}.portfolio-list>a>span{display:none}.brand-family{grid-template-columns:1fr 1fr;padding:30px 15px;gap:35px 10px}.brand-family .division-brand>div>span{font-size:8px}.brand-family .division-brand p{font-size:10px}.brand-family .division-mark{width:62px;height:62px}.industry-gallery{grid-template-columns:1fr;gap:24px}.industry-gallery .gallery-lead{grid-row:auto}.gallery-photo,.gallery-lead .gallery-photo,.industry-gallery:not(:has(figure:nth-child(3))) .gallery-photo{height:300px}.industry-gallery figcaption{padding:25px}.industry-gallery figcaption h3{font-size:27px}.game-trailers{grid-template-columns:1fr;gap:20px}.game-trailer:first-child{grid-column:auto}.game-trailer:first-child .trailer-copy{padding:23px}.trailer-copy h3{font-size:29px}.trailer-links{gap:18px}.game-showcase-intro{font-size:13px}}
+
+.industry-gallery figcaption>a.gallery-license{margin-left:14px}
+
+.trailer-player{position:relative;aspect-ratio:16/9;background:#030912;min-width:0}
+.trailer-preview{position:absolute;inset:0;width:100%;height:100%;padding:0;overflow:hidden;text-align:left;color:white}
+.trailer-context-photo{object-fit:cover;opacity:.5}
+.trailer-preview-shade{position:absolute;inset:0;background:linear-gradient(120deg,#291750cc,#04152999)}
+.trailer-minecraft .trailer-context-photo{object-fit:contain;background:#a4c39e}
+.trailer-minecraft .trailer-preview-shade{background:linear-gradient(120deg,#103a2ae6,#041b1e99)}
+.trailer-ea-sports-fc .trailer-preview-shade{background:linear-gradient(120deg,#123754dd,#06132688)}
+.trailer-preview-top{position:absolute;left:23px;right:23px;top:20px;display:flex;justify-content:space-between;align-items:center;font-size:8px;letter-spacing:.18em}
+.trailer-preview-center{position:absolute;inset:38px 20px 35px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:13px}
+.trailer-preview-center>img{width:48px;height:48px;object-fit:contain;filter:brightness(0) invert(1)}
+.trailer-preview-center>strong{font-family:Manrope,Arial,sans-serif;font-size:clamp(25px,3vw,44px);font-weight:600;letter-spacing:-.04em}
+.trailer-play{display:flex;align-items:center;gap:10px;background:#ffffff18;border:1px solid #ffffff70;padding:10px 15px;font-size:10px}
+.trailer-preview:hover .trailer-play{background:#ffffff30}
+.trailer-preview-caption{position:absolute;left:23px;bottom:15px;font-size:6px;letter-spacing:.12em;opacity:.7}
+.active-trailer{position:absolute;inset:0;display:flex;flex-direction:column}.active-trailer iframe{width:100%;flex:1;min-height:0;border:0}
+.trailer-player-help{display:flex;justify-content:space-between;gap:12px;padding:10px 15px;background:#17243a;font-size:9px}
+.trailer-player-help button{padding:0;text-decoration:underline}
+@media(max-width:700px){.trailer-preview-center{inset:30px 15px 28px;gap:8px}.trailer-preview-center>img{width:32px;height:32px}.trailer-preview-center>strong{font-size:26px}.trailer-play{padding:7px 12px;font-size:9px}.trailer-preview-top{top:13px;left:16px;right:16px;font-size:7px}.trailer-preview-caption{left:16px;bottom:10px;font-size:5px}.trailer-player-help{font-size:8px;padding:8px}}
+
+.trailer-copy p.preview-credit{font-size:9px;margin-top:12px;color:#8196b3}.preview-credit a{text-decoration:underline}

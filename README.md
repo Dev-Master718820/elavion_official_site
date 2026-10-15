@@ -50,3 +50,9 @@ Browser tests use Node’s built-in WebSocket client, serve the static export, a
 - Source checks record sparse or blocked manufacturer pages. Recheck product availability and destinations before commercial publication.
 - Set `NEXT_PUBLIC_SITE_URL` to the final canonical origin before building for another host. Static hosts must support directory indexes; configure their 404 handling for `404.html`.
 - The Sites deployment is private by default. `.openai/hosting.json` preserves its Site identity and static output directory.
+
+## Company positioning and industry media
+
+`src/data/direction.ts` contains clearly labeled proposed product programs and example workflows. They are positioning concepts, not verified development commitments. Replace them with owner-confirmed projects before making launch or development claims. `src/components/DivisionBrand.tsx` maps the supplied wing reference to scalable local SVG marks; Play and Sports remain Entertainment sub-brands. Each industry and Entertainment subpage includes a three-image gallery with credits.
+
+`public/images/industry-gallery-manifest.json` records the additional licensed editorial photographs. Official Fortnite, Minecraft, and EA SPORTS FC trailers use click-to-load YouTube privacy-enhanced players, without autoplay. Local branded previews use editorial context photographs; they are not gameplay screenshots. Their sources are in `public/images/games/game-art-manifest.json`. They are editorial references, not paid ads or partnerships. YouTube availability, region restrictions, and playback permissions are controlled by the publisher; direct viewing links remain available.
